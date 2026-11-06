@@ -1,0 +1,4 @@
+*.dmg
+*.key
+key-backup*
+.DS_Store
